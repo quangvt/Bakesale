@@ -8,7 +8,10 @@ import SearchBar from './SearchBar';
 // comment is longer than 70 character ==================================================
 // demo gitflow
 // demo2
+<<<<<<< HEAD
 // demo3
+=======
+>>>>>>> develop
 class App extends React.Component {
 	titleXPos = new Animated.Value(0);
 	state = {
