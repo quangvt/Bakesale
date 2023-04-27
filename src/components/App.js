@@ -6,7 +6,7 @@ import DealDetail from './DealDetail';
 import SearchBar from './SearchBar';
 
 // comment is longer than 70 character ==================================================
-
+// demo gitflow
 class App extends React.Component {
 	titleXPos = new Animated.Value(0);
 	state = {
