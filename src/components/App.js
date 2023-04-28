@@ -11,6 +11,7 @@ import SearchBar from './SearchBar';
 // demo3
 // feature/demo update
 // demo02
+// demo05
 class App extends React.Component {
 	titleXPos = new Animated.Value(0);
 	state = {
